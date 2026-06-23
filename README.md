@@ -8,7 +8,6 @@ This project demonstrates the implementation of a Library Management System usin
 <img width="1408" height="768" alt="Gemini_Generated_Image_my4h2amy4h2amy4h" src="https://github.com/user-attachments/assets/377573ae-721f-4b5c-866b-4177d7bff871" />
 
 
-![Library_project](https://github.com/najirh/Library-System-Management---P2/blob/main/library.jpg)
 
 ## Objectives
 
